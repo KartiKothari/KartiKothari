@@ -7,7 +7,8 @@
 ### Languages and Tools :
 #### Excel
 #### PowerBI - 
-Power BI project on Telangana - [https://www.novypro.com/project/telangana-growth-analysis-38](url)
+Power BI project on Telangana - [https://www.novypro.com/project/telangana-growth-analysis-38](url) |
+
 HR Analysis - [https://www.novypro.com/project/hr-analysis-22](url)
 #### SQL
 #### Python & its library
